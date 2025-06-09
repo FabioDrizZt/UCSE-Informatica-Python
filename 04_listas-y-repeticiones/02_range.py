@@ -1,0 +1,6 @@
+numeros = list(range(10))
+print(numeros)
+numeros = list(range(10,21))
+print(numeros)
+numeros = list(range(5,101,5))
+print(numeros)
